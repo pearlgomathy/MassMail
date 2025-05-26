@@ -33,4 +33,4 @@ MassMail is a Node.js application that allows you to send bulk emails using cust
 `npm install`
 
 3. **Run the application**
-npm start 
+`npm start` 
